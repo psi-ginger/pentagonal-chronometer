@@ -29,7 +29,7 @@ This project was built to test whether a lightweight, cost-effective AI model co
 
 ## 🚀 Live Demo & Usage
 
-Just open `index.html` (or `pentagonal_clock.html`) in any modern desktop browser.  
+Just open pentagonal_clock.html in any modern desktop browser.  
 Click anywhere on the screen to engage the mechanical sound engine.
 
 ---
